@@ -24,7 +24,7 @@
     "bootstrap": "^3.3.7",
     "core-js": "^2.5.4",
     "globally": "0.0.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "ngx-toaster": "^1.0.1",
     "ngx-toastr": "^9.1.1",
     "rxjs": "~6.3.3",
